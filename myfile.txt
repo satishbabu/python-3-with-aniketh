@@ -1,0 +1,3 @@
+Hello this is a text file
+This is going to be second line of the text
+Third line is going to be about Aniketh programming Python
